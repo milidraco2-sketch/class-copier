@@ -1,0 +1,11 @@
+{
+  "display_name": "类名复制器",
+  "loading_order": 100,
+  "requires": [],
+  "optional": [],
+  "js": "index.js",
+  "author": "飞鸟",
+  "version": "1.0.0",
+  "homePage": "https://github.com/milidraco2-sketch/class-copier",
+  "description": "点击任意元素复制其 CSS 选择器，双击放行原有点击逻辑。支持魔棒菜单总开关与悬浮按钮复制模式开关。"
+}
